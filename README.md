@@ -1,3 +1,4 @@
+<img src="https://github.com/nolsonlabs/nolsonlabs/blob/main/nolsonlabs_logo.png?raw=true" alt="nolsonlabs_logo.png">
 <h1>Building the future of commodity market intelligence on web3.</h1>
 <p>Better data. Great user experience. Stronger compliance.</p>
 
